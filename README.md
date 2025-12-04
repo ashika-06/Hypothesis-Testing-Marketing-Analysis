@@ -1,5 +1,5 @@
 
-## 🚀 Statistical Deep Dive into E-Commerce Customer Behavior
+## Statistical Deep Dive into E-Commerce Customer Behavior
 
 This project applies rigorous hypothesis testing to the **Kaggle Marketing Campaign dataset** to uncover key factors driving customer spending and campaign acceptance. 
 
@@ -7,13 +7,13 @@ This project applies rigorous hypothesis testing to the **Kaggle Marketing Campa
 
 ---
 
-### 🎯 Dataset Snapshot
+### Dataset Snapshot
 
 The data tracks ~2,240 customers, detailing their **demographics (Income, Education)**, **engagement (Recency)**, and **spending patterns (TotalSpend)** across multiple product categories.
 
 ---
 
-### 🧪 Core Findings & Actionable Insights
+### Core Findings & Actionable Insights
 
 We used four statistical tests to validate core business assumptions. All results were **statistically significant** ($P \le 0.05$), confirming the relationships are not due to chance.
 
@@ -26,7 +26,7 @@ We used four statistical tests to validate core business assumptions. All result
 
 ---
 
-### 📈 Overall Interdependencies (Correlation)
+### Overall Interdependencies (Correlation)
 
 The **Correlation Heatmap** confirmed strong structural relationships, validating the segmentation strategy. 
 
@@ -35,7 +35,7 @@ The **Correlation Heatmap** confirmed strong structural relationships, validatin
 
 ***
 
-### 🛠️ Technologies & Credits
+### Technologies & Credits
 
 * **Libraries:** `pandas`, `scipy`, `numpy`, `seaborn`, `matplotlib`.
 * **Dataset Source:** https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis
